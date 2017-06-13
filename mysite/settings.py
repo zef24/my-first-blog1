@@ -25,7 +25,7 @@ SECRET_KEY = '96e*$&$row(3jpp@bzn+x*9a9_e5vdd*!ln!ucpv9ab#x$9qg9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ashabhat.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'zef24.pythonanywhere.com']
 
 
 # Application definition
